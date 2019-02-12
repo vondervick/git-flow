@@ -1,2 +1,2 @@
 # git-flow
-Testing Git Flow
+Testing Git Flow, public
